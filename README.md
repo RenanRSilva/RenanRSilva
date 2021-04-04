@@ -3,7 +3,7 @@
       
 - 🎓 Studying system development at ETEC Batatais
 - 🔭 I am currently focused on studying JavaScript Stack
--  🥅 2021 goals: become a JS full stack developer and work with ReactJS and NodeJS
+-  🥅 2021 goals: become a JS front end developer and work with ReactJS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
