@@ -1,11 +1,12 @@
 # About Me:
 
       
-- 🎓 Studying system development at ETEC Batatais
-- 🔭 I am currently focused on studying ReactJS
+- 🎓 Studying system development at ETEC Batatais.
+- 🔭 I am currently focused on ReactJS.
 -   2021 goals: become an excellent Front-End developer!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRSilva&layout=compact)](https://github.com/RenanRSilva)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRSilva&layout=compact&langs_count=16&theme=dracula"/>
+
 
 
 
