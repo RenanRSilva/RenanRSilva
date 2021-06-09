@@ -18,7 +18,6 @@
 
 ### IDE
 [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode logo" title="vscode" height="25">](https://github.com/RenanRSilva)
-[<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma" height="25">](https://github.com/RenanRSilva)
 
 ### Code 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="html" height="25">](https://github.com/RenanRSilva)<br>
@@ -30,7 +29,6 @@
 
 ### Frameworks and Libs
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25">](https://github.com/RenanRSilva)
-[<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" alt="Next logo" title="NextJS" height="25">](https://github.com/RenanRSilva)
 [<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="StyledComponents" title="StyledComponents" height="25">](https://github.com/RenanRSilva)
 [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" title="Redux" height="25">](https://github.com/RenanRSilva)
 [<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" title="Jest" height="25">](https://github.com/RenanRSilva)
