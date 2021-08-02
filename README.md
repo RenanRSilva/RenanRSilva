@@ -1,7 +1,7 @@
 # About Me:
 
       
-- 🎓 Studying Computer Scinece at Cruzeiro do Sul.
+- 🎓 Studying computer science at Cruzeiro do Sul.
 - 🎓 Studying System = systems development at ETEC Batatais
 - 🔭 I am currently focused on ReactJS.
 -   2021 goals: become an excellent Front-End developer!
