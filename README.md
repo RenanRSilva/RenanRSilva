@@ -1,7 +1,6 @@
 ## About Me:
 
-Self taught Full-stack developer specialized in TypeScript, React, Next.js, and Node.js, with extensive experience in JavaScript technologies. I'm passionate about creating elegant and functional user interfaces, applying best development practices, and following industry standards.
-
+Self taught Full-stack developer specialized in TypeScript, React, Next.js, and Node.js, with extensive experience in JavaScript technologies.
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,typescript,js,react,next,nodejs,&perline=7)](https://skillicons.dev)
 
