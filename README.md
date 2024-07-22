@@ -4,7 +4,7 @@ Self taught Full-stack developer specialized in TypeScript, React, Next.js, and 
 
 Currently learning Java and spring boot and delving deeper into backend development.
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,typescript,js,react,next,nodejs,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,react,next,nodejs,java,spring&perline=7)](https://skillicons.dev)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanRSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRSilva&layout=compact&langs_count=16&theme=radical"/>
