@@ -2,7 +2,7 @@
 
 Self taught Full-stack developer specialized in TypeScript, React, Next.js, and Node.js, with extensive experience in JavaScript technologies.
 
-Currently learning Java and spring boot and delving deeper into backend development.
+Currently learning Java, spring boot and delving deeper into backend development.
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,react,next,nodejs,java,spring&perline=7)](https://skillicons.dev)
 
