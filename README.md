@@ -1,7 +1,3 @@
-## About Me:
-
-Self taught Full-stack developer specialized in TypeScript, React, Next.js, and Node.js, with extensive experience in JavaScript technologies.
-
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,react,next,nodejs&perline=7)](https://skillicons.dev)
 
